@@ -41,7 +41,7 @@ function Interview({ params }) {
           {interviewData?.jobDesc}{" "}
         </h2>
         <h2>
-          <strong>Years of Experince:</strong> {interviewData?.jobExperience}{" "}
+          <strong>Years of Experience:</strong> {interviewData?.jobExperience}{" "}
         </h2>
         </div>
         <div className="p-5 border rounded-lg border-yellow-300 bg-yellow-100 ">
